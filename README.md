@@ -49,7 +49,7 @@ Thank you for coming to my TED Talk xD"
 ## ⚡ Fun Facts
 
 - 🪄 My code sometimes works like magic (and other times like a wild spell gone wrong)
-- ☕ Runs on coffee, curiosity, and plot twists
+- ☕ Runs on memes, curiosity, and plot twists
 - 🤓 Can usually be found reading or building the next LLM-powered thing
 
 ---
