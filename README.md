@@ -47,7 +47,7 @@
 
 ## ⚡ Fun Facts
 
-- 🪄 My code sometimes works like magic (and other times like a wild spell gone wrong)
+- :eye_speech_bubble: Always on the lookout for a good bargain
 - ☕ Runs on memes, curiosity, and plot twists
 - 🤓 Can usually be found reading or building the next LLM-powered thing
 
