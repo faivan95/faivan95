@@ -1,4 +1,4 @@
-# Hi, I'm Farhan Abid Ivan 👋
+# Welcome to my Ted Talk 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=flat-square)](http://www.linkedin.com/in/farhan-abid-ivan)
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white&style=flat-square)](https://medium.com/@faivan)
@@ -7,8 +7,7 @@
 
 ---
 
-> "I'm a motivated student trying to make machines a bit more human by specializing in interacting with Large Language Models (LLMs), NLP, Software Development and various modern technologies.  
-Thank you for coming to my TED Talk xD"
+> I'm a motivated student trying to make machines a bit more human by specializing in interacting with Large Language Models (LLMs), NLP, Software Development and various modern technologies.  
 
 ---
 
