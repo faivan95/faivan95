@@ -26,7 +26,7 @@
 
 - **[Munich_Walking_Isochrones](https://github.com/faivan95/Walking-Isochrones):**  
   Geospatial Data project that shows the reachable walking zones from the center of Marienplatz in Munich.  
-  <img src="Marienplatz_reachable_walking_zones_from_center.png" alt="Marienplatz" width=3em height=3em>
+  <img src="Marienplatz_reachable_walking_zones_from_center.png" alt="Marienplatz" width="3em" height="3em">
   <sub>Language: Python</sub>
 
 - **[Topic_Modeling_Pythia](https://github.com/faivan95/Topic-Modeling-Pythia):**  
