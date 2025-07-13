@@ -27,7 +27,7 @@
 - **[Munich_Walking_Isochrones](https://github.com/faivan95/Walking-Isochrones):**  
   Geospatial Data project that shows the reachable walking zones from the center of Marienplatz in Munich.  
   <sub>Language: Python</sub>
-  !["Marienplatz"]("Marienplatz_reachable_walking_zones_from_center.png")
+  !["Marienplatz"](Marienplatz_reachable_walking_zones_from_center.png)
 
 - **[Topic_Modeling_Pythia](https://github.com/faivan95/Topic-Modeling-Pythia):**  
   Topic modeling in Python using embeddings from various checkpoints of GPT-NeoX LLM training.  
