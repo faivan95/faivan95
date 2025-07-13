@@ -24,7 +24,11 @@
 
 ## 🚀 Highlighted Projects
 
-- **[Topic-Modeling-Pythia](https://github.com/faivan95/Topic-Modeling-Pythia):**  
+- **[Munich_Walking_Isochrones](https://github.com/faivan95/Walking-Isochrones):**  
+  Geospatial Data project that shows the reachable walking zones from the center of Marienplatz in Munich.  
+  <sub>Language: Python</sub>
+
+- **[Topic_Modeling_Pythia](https://github.com/faivan95/Topic-Modeling-Pythia):**  
   Topic modeling in Python using embeddings from various checkpoints of GPT-NeoX LLM training.  
   <sub>Language: Python</sub>
 
