@@ -30,6 +30,10 @@
 
   <sub>Language: Python</sub>
 
+- **[RAG Pipeline](https://github.com/faivan95/RAG-Pipeline):**  
+  Retrieval-Augmented Generation (RAG) using indexed documents in order to evaluate input text with Deepseek-R1 8B Model.  
+  <sub>Language: Python</sub>
+
 - **[Topic_Modeling_Pythia](https://github.com/faivan95/Topic-Modeling-Pythia):**  
   Topic modeling in Python using embeddings from various checkpoints of GPT-NeoX LLM training.  
   <sub>Language: Python</sub>
