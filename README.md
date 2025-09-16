@@ -7,7 +7,7 @@
 
 ---
 
-> I'm a motivated student trying to make machines a bit more human by specializing in interacting with Large Language Models (LLMs), NLP, Software Development and various modern technologies.  
+> I'm a motivated individual trying to make machines a bit more human by specializing in interacting with Large Language Models (LLMs), NLP, Software Development and various modern technologies.  
 
 ---
 
