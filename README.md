@@ -14,7 +14,7 @@
 ## 💻 About Me
 
 - 👨‍💻 **Software Developer** focused on NLP and Large Language Model (LLM) applications  
-- 🏢 Recently graduated with a _M.Sc. in Informatics_ from the **Technical University of Munich**
+- 🏢 _M.Sc. in Informatics_ from the **Technical University of Munich**
 - 🐍 Fluent in Python, C++, and always happy to learn more!
 - 🤖 Making machines a bit more human, one model at a time
 - 📚 Sci-fi & fantasy bookworm ([Goodreads](https://www.goodreads.com/user/show/13025254-farhan-abid-ivan))
