@@ -7,7 +7,7 @@
 
 ---
 
-> I'm a motivated individual trying to make machines a bit more human by specializing in interacting with Large Language Models (LLMs), NLP, Software Development and various modern technologies.  
+> Motivated individual trying to make machines a bit more human by specializing in interacting with Large Language Models (LLMs), NLP, Software Development and various modern technologies.  
 
 ---
 
@@ -23,6 +23,22 @@
 ---
 
 ## 🚀 Highlighted Projects
+
+- # 🤖 FinTech Agent Engine: Autonomous Quant Backtesting Pipeline
+
+![Python](https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python)
+![LangGraph](https://img.shields.io/badge/LangGraph-Multi--Agent-orange?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-Containerized-blue?style=for-the-badge&logo=docker)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-State_Memory-blue?style=for-the-badge&logo=postgresql)
+![Streamlit](https://img.shields.io/badge/Streamlit-UI-red?style=for-the-badge&logo=streamlit)
+
+An autonomous, containerized multi-agent AI system that ideates, codes, self-heals, and executes quantitative trading strategies via Python and Pandas. Powered by local LLMs and LangGraph state orchestration.
+
+---
+
+### 🎥 Live Execution Demo
+
+https://github.com/user-attachments/assets/272b8e8d-1c04-462f-9f52-8996c0e84959
 
 - **[Munich_Walking_Isochrones](https://github.com/faivan95/Walking-Isochrones):**  
   Geospatial Data project that shows the reachable walking zones from the center of Marienplatz in Munich.  
