@@ -24,7 +24,7 @@
 
 ## 🚀 Highlighted Projects
 
-- # 🤖 FinTech Agent Engine: Autonomous Quant Backtesting Pipeline
+- # [🤖 FinTech Agent Engine: Autonomous Quant Backtesting Pipeline](https://github.com/faivan95/Fintech-Agent-Engine)
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python)
 ![LangGraph](https://img.shields.io/badge/LangGraph-Multi--Agent-orange?style=for-the-badge)
