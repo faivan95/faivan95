@@ -31,6 +31,7 @@
 ![Docker](https://img.shields.io/badge/Docker-Containerized-blue?style=for-the-badge&logo=docker)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-State_Memory-blue?style=for-the-badge&logo=postgresql)
 ![Streamlit](https://img.shields.io/badge/Streamlit-UI-red?style=for-the-badge&logo=streamlit)
+![LangSmith](https://img.shields.io/badge/LangSmith-Observability-gray?style=for-the-badge&logo=langchain)
 
 An autonomous, containerized multi-agent AI system that ideates, codes, self-heals, and executes quantitative trading strategies via Python and Pandas. Powered by local LLMs and LangGraph state orchestration.
 
@@ -42,8 +43,10 @@ https://github.com/user-attachments/assets/272b8e8d-1c04-462f-9f52-8996c0e84959
 
 - **[Munich_Walking_Isochrones](https://github.com/faivan95/Walking-Isochrones):**  
   Geospatial Data project that shows the reachable walking zones from the center of Marienplatz in Munich.  
-  <img src="Marienplatz_reachable_walking_zones_from_center.png" alt="Marienplatz" width="400" height="400">
-
+  <p align="center">
+    <img src="Marienplatz_reachable_walking_zones_from_center.png" alt="Marienplatz" width="400" height="400">
+  </p>
+  
   <sub>Language: Python</sub>
 
 - **[RAG Pipeline](https://github.com/faivan95/RAG-Pipeline):**  
