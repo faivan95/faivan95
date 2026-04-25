@@ -82,8 +82,4 @@ https://github.com/user-attachments/assets/272b8e8d-1c04-462f-9f52-8996c0e84959
 
 ---
 
-![Farhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=faivan95&show_icons=true&hide_title=true&hide_rank=true&hide=stars&count_private=true&theme=tokyonight)
-
----
-
 _Thanks for stopping by! May your models converge and your books have happy endings!_
