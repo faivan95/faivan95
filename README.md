@@ -18,7 +18,7 @@
 - 🐍 Fluent in Python, C++, and always happy to learn more!
 - 🤖 Making machines a bit more human, one model at a time
 - 📚 Sci-fi & fantasy bookworm ([Goodreads](https://www.goodreads.com/user/show/13025254-farhan-abid-ivan))
-- 🧑‍🔬 Always tinkering with new projects in NLP, embeddings, and AI
+- 🧑‍🔬 Always tinkering with new projects in NLP, AI and Life
 
 ---
 
